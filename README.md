@@ -4,7 +4,7 @@
 
 It is a responsive mobile-first Landing page.
 
-visit: [Loopstudio](https://loopstudios-gamma.vercel.app/index.html)
+visit: [Loopstudio](https://loopstudios-valencydickson.vercel.app/)
 
 **Tools Used**
 
