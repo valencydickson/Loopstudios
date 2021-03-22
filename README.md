@@ -1,4 +1,4 @@
-![Loopstudios Logo](https://github.com/valencydickson/Easy-Bank/blob/main/images/logo.svg)
+![Loopstudios Logo](https://github.com/valencydickson/Loopstudios/blob/main/images/logo.svg)
 
 ## Loopstudios Landing Page
 
