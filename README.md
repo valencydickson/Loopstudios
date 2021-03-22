@@ -4,7 +4,7 @@
 
 It is a responsive mobile-first Landing page.
 
-visit: [Loopstudio](https://easy-bank-plum.vercel.app/)
+visit: [Loopstudio](https://vercel.com/valencydickson/loopstudios)
 
 **Tools Used**
 
